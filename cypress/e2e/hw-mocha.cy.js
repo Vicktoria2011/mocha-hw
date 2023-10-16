@@ -2,17 +2,14 @@ const logInData = [
     { 
       login: '727865319689', 
       password: '123456',
-      expectedResult: 'eldorado' 
     },
     {
       login: '094747973123', 
       password: '123456',
-      expectedResult: 'eldorado' 
     },
     { 
       login: '09ааа23', 
       password: '123456',
-      expectedResult: 'eldorado' 
     },
   ];
   
